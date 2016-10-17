@@ -5,6 +5,8 @@ Some interesting point of view: http://sietch.net/ViewNewsItem.aspx?NewsItemID=2
 
 Performance of abstractions on loops: https://www.infoq.com/articles/For-Each-Performance
 
+# C# 7 Features
+
 Full list of features as described in msdn: https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/
 
 # C# / .Net General discussion suggestions
