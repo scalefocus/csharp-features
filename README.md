@@ -42,7 +42,7 @@ var numbers = from s in strings select int.TryParse(s, out int i) ? i : -1;
 ```
 
 ### Further readings
-https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6
+https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6  
 Some interesting point of view: http://sietch.net/ViewNewsItem.aspx?NewsItemID=250  
 
 ## C# 7 Features
