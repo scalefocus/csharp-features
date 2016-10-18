@@ -1,5 +1,7 @@
 # C# Language Features & Tips
 
+[![Join the chat at https://gitter.im/ScaleFocus/csharp-features](https://badges.gitter.im/ScaleFocus/csharp-features.svg)](https://gitter.im/ScaleFocus/csharp-features?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A collection of C# language features and tips samples.
 
 ## C# 6 Language Features
