@@ -1,5 +1,7 @@
 # C# Language Features & Tips
 
+[![Gitter](https://badges.gitter.im/ScaleFocus/csharp-features.svg)](https://gitter.im/ScaleFocus/csharp-features?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 A collection of C# language features and tips samples.
 
 ## C# 6 Language Features
@@ -40,7 +42,7 @@ var numbers = from s in strings select int.TryParse(s, out int i) ? i : -1;
 ```
 
 ### Further readings
-https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6
+https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6  
 Some interesting point of view: http://sietch.net/ViewNewsItem.aspx?NewsItemID=250  
 
 ## C# 7 Features
