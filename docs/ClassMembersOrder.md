@@ -2,8 +2,7 @@
 
 _Within a class, struct or interface:_
 
-- Constant 
-- Fields
+- Constant Fields
 - Fields
 - Constructors
 - Finalizers (Destructors)
