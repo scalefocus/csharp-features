@@ -46,6 +46,12 @@ https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6
 Some interesting point of view: http://sietch.net/ViewNewsItem.aspx?NewsItemID=250  
 
 ## C# 7 Features
+1.  Tuples
+2.  Pattern matching
+1.  Record types
+1.  Non-nullable reference types
+5. Local Functions
+5. Immutable Types
 
 Full list of features as described in msdn: https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/
 
