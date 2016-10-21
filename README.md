@@ -6,29 +6,14 @@ A collection of C# language features and tips samples.
 
 ## C# release history
 
-# C# Version	Release   Date	            Tool	                   Feature
-   1.0	                2002           	Visual Studio           Partial classes
-                                                               Support for generics
-                                                               Iterators
-   2.0	                2005           	Visual Studio 2005       Nullable syntax
-                                                               Anonymous methods
-                                                               Static class
-                                                               Volatile keyword
-                                                               Implicitly Typed Local Variables
-                                                               Extension Methods
-   3.0	                2008	           Visual Studio 2008	     Lambda Expressions
-                                                               Type Inference
-                                                               Object and Collection Initializers
-                                                               Anonymous Types
-                                                               Automatically Implemented Properties
-                                                               Expression Trees
-   4.0	                2010	           Visual Studio 2010	     Support for Covariance and Contravariance
-                                                               Optional parameters and named arguments
-                                                               Support for Dynamic and DLR
-                                                               Enhanced support for COM interop
-   5.0	                2012           	Visual Studio 2012     	Async / Await Feature
-                                                               Support for caller information
-   6.0                 2015            Visual Studio 2015      ...
+|Version	Release| Date	   |     Tool	         |
+| ------------- |:--------:| ------------------:|
+|   1.0         |  2002    | 	Visual Studio     |
+|   2.0         |  2005    | Visual Studio 2005 |
+|   3.0         |  2008    | Visual Studio 2008 |
+|   4.0         |  2010    | Visual Studio 2010	|
+|   5.0         |  2012    | Visual Studio 2012 |
+|   6.0         |  2015    | Visual Studio 2015 |
 
 ## C# 6 Language Features
 
