@@ -1,5 +1,6 @@
 # C# Language Features & Tips
 
+[![Build status](https://ci.appveyor.com/api/projects/status/1jlutgcdx1hd5rkw?svg=true)](https://ci.appveyor.com/project/scalefocus/csharp-features)
 [![Gitter](https://badges.gitter.im/ScaleFocus/csharp-features.svg)](https://gitter.im/ScaleFocus/csharp-features?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A collection of C# language features and tips samples.
@@ -73,3 +74,11 @@ Threads
 - Perhaps also look at System.Threading.Timer;
 
 Performance of abstractions on loops: https://www.infoq.com/articles/For-Each-Performance
+
+## Contribute
+
+Check out the [contribution guidelines](https://github.com/scalefocus/csharp-features/blob/master/CONTRIBUTING.md) if you want to contribute to this project.
+
+## License
+
+[Apache-2.0](https://github.com/scalefocus/csharp-features/blob/master/LICENSE)
