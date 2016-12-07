@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("05.StringInterpolation")]
+[assembly: AssemblyTitle("ScaleFocus.CSharp.Features")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("05.StringInterpolation")]
+[assembly: AssemblyProduct("ScaleFocus.CSharp.Features")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3c1c4ee8-5a35-471f-839b-20051ceaeeb1")]
+[assembly: Guid("398c4f3d-02ad-4cb2-9531-38b9b34458a5")]
 
 // Version information for an assembly consists of the following four values:
 //
