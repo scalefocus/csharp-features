@@ -1,0 +1,23 @@
+version: '{build}'
+branches:
+  only:
+  - master
+configuration: Release
+init:
+- ps: Update-AppveyorBuild -Version "1.0.$env:appveyor_build_number.$(([datetime](Get-Date) - [datetime]'2000-01-01').Days)"
+assembly_info:
+  patch: true
+  file: '**\AssemblyInfo.*'
+  assembly_version: '{version}'
+  assembly_file_version: '{version}'
+  assembly_informational_version: '{version}'
+before_build:
+- cmd: nuget restore
+build:
+  verbosity: minimal
+  publish_nuget: true
+artifacts:
+- path: 'src\**\bin\**\ScaleFocus.CSharp.Features.dll'
+- path: 'src\**\bin\**\ScaleFocus.CSharp.Features.pdb'
+nuget:
+  account_feed: true
