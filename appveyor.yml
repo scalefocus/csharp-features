@@ -21,3 +21,8 @@ artifacts:
 - path: 'src\**\bin\**\ScaleFocus.CSharp.Features.pdb'
 nuget:
   account_feed: true
+notifications:
+  - provider: Email
+    to:
+    - velio.ivanov@scalefocus.com
+    on_build_success: false

@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,20 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoPropertyEnhancements.cs" />
+    <Compile Include="AwaitInCatchFinally.cs" />
+    <Compile Include="ExceptionFilters.cs" />
+    <Compile Include="ExpressionBodiedMembers.cs" />
+    <Compile Include="IndexInitializers.cs" />
+    <Compile Include="NameofExpressions.cs" />
+    <Compile Include="NullConditionalOperators.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringInterpolation.cs" />
+    <Compile Include="StructDefaultContructor.cs" />
+    <Compile Include="UsingStatic.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="AutoPropertyEnhancements\" />
-    <Folder Include="AwaitInCatchFinally\" />
-    <Folder Include="ExceptionFilters\" />
-    <Folder Include="ExpressionBodiedMembers\" />
-    <Folder Include="IndexInitializers\" />
-    <Folder Include="NameofExpressions\" />
-    <Folder Include="NullConditionalOperators\" />
-    <Folder Include="StringInterpolation\" />
-    <Folder Include="StructDefaultContructor\" />
-    <Folder Include="UsingStatic\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
