@@ -18,7 +18,7 @@ A collection of C# language features and tips samples.
 
 ## C# 6 Language Features
 
-1.  [Auto-property enhancements](src/01.AutoPropertyEnhancements/)
+1.  [Auto-property enhancements](src/ScaleFocus.CSharp.Features/AutoPropertyEnhancements.cs)
 2.  Expression-bodied function members
 3.  Using static
 4.  Null-conditional operators
