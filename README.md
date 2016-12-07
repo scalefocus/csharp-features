@@ -18,16 +18,16 @@ A collection of C# language features and tips samples.
 
 ## C# 6 Language Features
 
-1.  [Auto-property enhancements](src/ScaleFocus.CSharp.Features/AutoPropertyEnhancements.cs)
-2.  Expression-bodied function members
-3.  Using static
-4.  Null-conditional operators
-5.  String interpolation
-6.  nameof expressions
-7.  Index initializers
-8.  Exception filters
-9.  Await in catch and finally blocks
-10. Default constructors in structs
+1.  [Auto-property Enhancements](src/ScaleFocus.CSharp.Features/AutoPropertyEnhancements.cs)
+2.  [Expression Bodied Methods and Auto-Properties](src/ScaleFocus.CSharp.Features/ExpressionBodiedMembers.cs)
+3.  [The nameof Expressions](src/ScaleFocus.CSharp.Features/NameofExpressions.cs)
+4.  [Null-conditional Operators](src/ScaleFocus.CSharp.Features/NullConditionalOperators.cs)
+5.  [String Interpolation](src/ScaleFocus.CSharp.Features/StringInterpolation.cs)
+6.  [Index Initializers](src/ScaleFocus.CSharp.Features/IndexInitializers.cs)
+7.  [Using Static](src/ScaleFocus.CSharp.Features/UsingStatic.cs)
+8.  [Exception Filters](src/ScaleFocus.CSharp.Features/ExceptionFilters.cs)
+9.  [Await in Catch and Finally Blocks](src/ScaleFocus.CSharp.Features/AwaitInCatchFinally.cs)
+10. [Default Constructors in Structs](src/ScaleFocus.CSharp.Features/StructDefaultContructor.cs)
 
 ### Abondoned features 
  
