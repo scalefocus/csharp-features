@@ -29,7 +29,7 @@ A collection of C# language features and tips samples.
 9.  [Await in Catch and Finally Blocks](src/ScaleFocus.CSharp.Features/AwaitInCatchFinally.cs)
 10. [Default Constructors in Structs](src/ScaleFocus.CSharp.Features/StructDefaultContructor.cs)
 
-### Abondoned features 
+### Abandoned features 
  
 *Primary Contructors* 
 ``` csharp
